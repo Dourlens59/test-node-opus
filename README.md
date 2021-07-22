@@ -29,7 +29,9 @@ $ npm run count
 ```
 
 ## Test
-
+Install the dependency before execute the tests
 ```shell script
+$ npm run install
+AND
 $ npm run test
 ```
